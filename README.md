@@ -6,8 +6,10 @@ I'm Abigail, a computer science student at the University of Maryland - College 
 
 ## Featured Repos
 
+- [TerpWhisper](https://github.com/ariasongdc-cpu/Technica2026_extension) - Created a Google Chrome extension that helps UMD students easily understand reviews on PlanetTerp, a professor/course review website
+- [iCane](https://github.com/tanmaykatke21/iCane_HopHacks_2026) - Assisted with end-to-end development and structured the pitch presentation
 - [DoorDash Delivery Time Predictions](https://github.com/abigailyc/UCLA-Data-Sci-25) — Trained six different types of machine learning models for delivery predictions. Performed data visualization, processing, machine learning algorithms
-- [Evershade Mansion](https://github.com/abigailyc/cosmos-final-project) — 2D quest game created with Unity. 
+- [Evershade Mansion](https://github.com/abigailyc/cosmos-final-project) — 2D quest game created with Unity
 
 ## What I'm Exploring
 
